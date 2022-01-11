@@ -1,4 +1,4 @@
-# vaccination_alert
+# Vaccination Alert
 The program serves the need to get vaccine slot information from Indian Government API, the smtp protocol will send email to the provided email ID with slot availability.
 
 
